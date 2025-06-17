@@ -1,0 +1,41 @@
+[gd_scene load_steps=7 format=3 uid="uid://wuk11us62npu"]
+
+[ext_resource type="Script" uid="uid://c5v2vb6aj65op" path="res://player.gd" id="1_kpjcp"]
+[ext_resource type="Texture2D" uid="uid://t8imneu20yg6" path="res://Sprites/Ghost/Ghost1.png" id="2_e80uo"]
+[ext_resource type="Texture2D" uid="uid://bw73x8j1lgag1" path="res://Sprites/Ghost/ghost2.png" id="3_cxr5p"]
+[ext_resource type="Texture2D" uid="uid://bri5n71m7ubao" path="res://Sprites/Ghost/ghost3.png" id="4_tdg3f"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_dtqjt"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_e80uo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_cxr5p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_tdg3f")
+}],
+"loop": true,
+"name": &"float",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_xhfnw"]
+radius = 7.77443
+
+[node name="player" type="CharacterBody2D"]
+motion_mode = 1
+script = ExtResource("1_kpjcp")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_dtqjt")
+animation = &"float"
+autoplay = "float"
+frame_progress = 0.376106
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(1, 5.96046e-08)
+scale = Vector2(1.78421, 1.75601)
+shape = SubResource("CircleShape2D_xhfnw")

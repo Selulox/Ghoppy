@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7lo04sy1xxl7"
-path="res://.godot/imported/Wall Jump (32x32).png-91e1bf265b5163e3572cf76353483e8c.ctex"
+path="res://.godot/imported/Wall Jump (32x32).png-2a4aa8a42bc99cc4a9937b294abb741e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GodotTutorial/Main Characters/Virtual Guy/Wall Jump (32x32).png"
-dest_files=["res://.godot/imported/Wall Jump (32x32).png-91e1bf265b5163e3572cf76353483e8c.ctex"]
+source_file="res://Assets/Main Characters/Virtual Guy/Wall Jump (32x32).png"
+dest_files=["res://.godot/imported/Wall Jump (32x32).png-2a4aa8a42bc99cc4a9937b294abb741e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwlpkwgioyr82"
-path="res://.godot/imported/Grey Off.png-33dc496ab5ef888c755cb330ac94ab6a.ctex"
+path="res://.godot/imported/Grey Off.png-04e7bd3430d1d0cac33c0261385d5690.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GodotTutorial/Traps/Platforms/Grey Off.png"
-dest_files=["res://.godot/imported/Grey Off.png-33dc496ab5ef888c755cb330ac94ab6a.ctex"]
+source_file="res://Assets/Traps/Platforms/Grey Off.png"
+dest_files=["res://.godot/imported/Grey Off.png-04e7bd3430d1d0cac33c0261385d5690.ctex"]
 
 [params]
 

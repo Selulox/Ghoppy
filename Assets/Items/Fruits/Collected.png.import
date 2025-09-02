@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxkja1hrf4lso"
-path="res://.godot/imported/Collected.png-4fa0e8dc30a337145782f550adb1c0b6.ctex"
+path="res://.godot/imported/Collected.png-247775da50c660100df5246bc799e49e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GodotTutorial/Items/Fruits/Collected.png"
-dest_files=["res://.godot/imported/Collected.png-4fa0e8dc30a337145782f550adb1c0b6.ctex"]
+source_file="res://Assets/Items/Fruits/Collected.png"
+dest_files=["res://.godot/imported/Collected.png-247775da50c660100df5246bc799e49e.ctex"]
 
 [params]
 

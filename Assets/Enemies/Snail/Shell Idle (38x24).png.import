@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o5e4c0ei7mpm"
-path="res://.godot/imported/Shell Idle (38x24).png-070567b4d23114f46a7fe20748ddd842.ctex"
+path="res://.godot/imported/Shell Idle (38x24).png-1b98f5c614b28337d7ba45ce23627b31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GodotTutorial/Enemies/Snail/Shell Idle (38x24).png"
-dest_files=["res://.godot/imported/Shell Idle (38x24).png-070567b4d23114f46a7fe20748ddd842.ctex"]
+source_file="res://Assets/Enemies/Snail/Shell Idle (38x24).png"
+dest_files=["res://.godot/imported/Shell Idle (38x24).png-1b98f5c614b28337d7ba45ce23627b31.ctex"]
 
 [params]
 

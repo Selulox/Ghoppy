@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds6c5ykj8yrex"
-path="res://.godot/imported/Idle.png-f7543fbf028497261795158be3b1f051.ctex"
+path="res://.godot/imported/Idle.png-fa1e14e1d4102e0eb4334a76c037fa2c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GodotTutorial/Traps/Rock Head/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-f7543fbf028497261795158be3b1f051.ctex"]
+source_file="res://Assets/Traps/Rock Head/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-fa1e14e1d4102e0eb4334a76c037fa2c.ctex"]
 
 [params]
 

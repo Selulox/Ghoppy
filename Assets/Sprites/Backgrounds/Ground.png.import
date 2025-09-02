@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c75v0kesbg307"
-path="res://.godot/imported/bookshelfwall.png-192e048abd998813b0fd2c60e9f5b40a.ctex"
+uid="uid://bx0ndmnn41lo"
+path="res://.godot/imported/Ground.png-30d4353cf6f600217bf39466eb374138.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Backgrounds/bookshelfwall.png"
-dest_files=["res://.godot/imported/bookshelfwall.png-192e048abd998813b0fd2c60e9f5b40a.ctex"]
+source_file="res://Assets/Sprites/Backgrounds/Ground.png"
+dest_files=["res://.godot/imported/Ground.png-30d4353cf6f600217bf39466eb374138.ctex"]
 
 [params]
 

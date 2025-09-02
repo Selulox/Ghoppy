@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1sl3ay7fix50"
-path="res://.godot/imported/Purple.png-48f1c2a8e6cdde048bf9f048519c3c7c.ctex"
+path="res://.godot/imported/Purple.png-960bc6d84415aa77cce63d6337a21dac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GodotTutorial/Background/Purple.png"
-dest_files=["res://.godot/imported/Purple.png-48f1c2a8e6cdde048bf9f048519c3c7c.ctex"]
+source_file="res://Assets/Background/Purple.png"
+dest_files=["res://.godot/imported/Purple.png-960bc6d84415aa77cce63d6337a21dac.ctex"]
 
 [params]
 

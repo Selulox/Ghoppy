@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcs5lhxs5jrxh"
-path="res://.godot/imported/Snail without shell.png-09c6107511d874cb3120930f2ab79dab.ctex"
+path="res://.godot/imported/Snail without shell.png-41db05136cb1907399c1be72399fa259.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GodotTutorial/Enemies/Snail/Snail without shell.png"
-dest_files=["res://.godot/imported/Snail without shell.png-09c6107511d874cb3120930f2ab79dab.ctex"]
+source_file="res://Assets/Enemies/Snail/Snail without shell.png"
+dest_files=["res://.godot/imported/Snail without shell.png-41db05136cb1907399c1be72399fa259.ctex"]
 
 [params]
 

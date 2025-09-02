@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b46j1ftnkk84h"
-path="res://.godot/imported/Fall.png-43f097795585a27d3788cdd8be5c1d72.ctex"
+path="res://.godot/imported/Fall.png-bd415c11c5557a7cfc9a05cd0f65170e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GodotTutorial/Enemies/Bunny/Fall.png"
-dest_files=["res://.godot/imported/Fall.png-43f097795585a27d3788cdd8be5c1d72.ctex"]
+source_file="res://Assets/Enemies/Bunny/Fall.png"
+dest_files=["res://.godot/imported/Fall.png-bd415c11c5557a7cfc9a05cd0f65170e.ctex"]
 
 [params]
 

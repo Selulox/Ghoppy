@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://b272a063lhk5a"]
 
-[ext_resource type="Script" uid="uid://dji80lupny1cw" path="res://game_over.gd" id="1_y26ei"]
+[ext_resource type="Script" uid="uid://dji80lupny1cw" path="res://scripts/game_over.gd" id="1_y26ei"]
 
 [node name="DiedScreen" type="ColorRect"]
 anchors_preset = 8

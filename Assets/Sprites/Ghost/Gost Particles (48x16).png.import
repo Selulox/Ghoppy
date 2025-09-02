@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cc4ucccyam7gv"
-path="res://.godot/imported/ghost idle.png-819c9e27bef2c7986e9efa340d1931fc.ctex"
+uid="uid://be07sghq88vc3"
+path="res://.godot/imported/Gost Particles (48x16).png-0654c6747fea0272013272e4eab5fe5c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ghost/ghost idle.png"
-dest_files=["res://.godot/imported/ghost idle.png-819c9e27bef2c7986e9efa340d1931fc.ctex"]
+source_file="res://Assets/Sprites/Ghost/Gost Particles (48x16).png"
+dest_files=["res://.godot/imported/Gost Particles (48x16).png-0654c6747fea0272013272e4eab5fe5c.ctex"]
 
 [params]
 

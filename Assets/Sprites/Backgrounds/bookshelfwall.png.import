@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://be07sghq88vc3"
-path="res://.godot/imported/Gost Particles (48x16).png-9f70da1b657704433d8847cf1a1c4d51.ctex"
+uid="uid://c75v0kesbg307"
+path="res://.godot/imported/bookshelfwall.png-5706adcfde37567a9aa3da24f9cbe192.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ghost/Gost Particles (48x16).png"
-dest_files=["res://.godot/imported/Gost Particles (48x16).png-9f70da1b657704433d8847cf1a1c4d51.ctex"]
+source_file="res://Assets/Sprites/Backgrounds/bookshelfwall.png"
+dest_files=["res://.godot/imported/bookshelfwall.png-5706adcfde37567a9aa3da24f9cbe192.ctex"]
 
 [params]
 

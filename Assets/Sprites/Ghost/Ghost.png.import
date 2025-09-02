@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://i8us0kqxy5j6"
-path="res://.godot/imported/Appear (44x30).png-3042646b20d1563c7d2eb7b200ac1011.ctex"
+uid="uid://ky28w43qi10h"
+path="res://.godot/imported/Ghost.png-7dc4ab194fafb2333c7e45b81ae8da94.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ghost/Appear (44x30).png"
-dest_files=["res://.godot/imported/Appear (44x30).png-3042646b20d1563c7d2eb7b200ac1011.ctex"]
+source_file="res://Assets/Sprites/Ghost/Ghost.png"
+dest_files=["res://.godot/imported/Ghost.png-7dc4ab194fafb2333c7e45b81ae8da94.ctex"]
 
 [params]
 
